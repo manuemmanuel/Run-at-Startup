@@ -6,7 +6,7 @@ Make the Python script executable:
 
 ```sh
 
-chmod +x /path/to/clone_repo.py
+chmod +x /path/to/main.py
 ```
 Create a systemd service file:
 Create a new service file for your script, e.g., clone_repo.service. You can do this by creating a new file in /etc/systemd/system/.
